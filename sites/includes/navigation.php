@@ -37,9 +37,9 @@
     <div class="nav-footer">
         <div class="nav-footer-left">
             <ul>
-                <li><p><img src="./img/check.png" alt="check">Online Kurse</p></li>
-                <li><p><img src="./img/check.png" alt="check">Eintel oder Gruppen Kurse</p></li>
-                <li><p><img src="./img/check.png" alt="check">Businesskurse</p></li>
+                <li><img src="./img/check.png" alt="check"><p>Online Kurse</p></li>
+                <li><img src="./img/check.png" alt="check"><p>Eintel oder Gruppen Kurse</p></li>
+                <li><img src="./img/check.png" alt="check"><p>Businesskurse</p></li>
             </ul>
         </div>
         <div class="nav-footer-right">
